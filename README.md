@@ -1,4 +1,4 @@
-# MyReads Project
+# MyReads 
 
 This is the completed version of the MyReads project for Udacity's React Fundamentals course. The project provides a React app that allows the user to query a book database and add books to preferred shelves. There are three shelves available: Currently Reading, Want to Read and Read. Books may also be moved from one shelf to another.
 
